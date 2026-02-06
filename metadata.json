@@ -1,0 +1,7 @@
+{
+  "name": "DroidPhonic Music Player",
+  "description": "A feature-rich, Android-inspired music player with a 10-band equalizer, bass boost, visualizer, and AI-powered smart recommendations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
